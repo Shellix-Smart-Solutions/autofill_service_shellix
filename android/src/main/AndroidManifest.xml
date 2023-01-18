@@ -15,7 +15,7 @@
 
         <service
             android:name=".FlutterMyAutofillService"
-            android:label="Flutter Autofill Service"
+            android:label="Password Generator"
             android:permission="android.permission.BIND_AUTOFILL_SERVICE"
             android:exported="true">
             <intent-filter>
